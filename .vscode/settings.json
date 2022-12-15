@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./datasets",
+        "./tools"
+    ],
+    "python.pythonPath": "/home/sss/anaconda3/envs/brg-semi-ad/bin/python"
+}
